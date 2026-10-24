@@ -9,6 +9,9 @@ public class DemoGit1 {
 		
 		int a=10;
 		
+		int y=22;
+		System.err.println(a + y);
+		
 	}
 
 }
