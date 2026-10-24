@@ -6,6 +6,13 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
 public class class1 {
+	
+	@Test
+	public static void DummyGit(){
+		System.out.println("lll");
+		System.err.println("ooo");
+		
+	}
 
 	@Test
 	public static void Demo() {
