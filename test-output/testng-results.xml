@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="18" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-15T18:15:47 IST" name="Suite" finished-at="2026-10-15T18:15:48 IST" duration-ms="639">
+    <groups>
+      <group name="Smoke">
+        <method signature="classs2.Loan1()[pri:0, instance:TestPackage.classs2@31c88ec8]" name="Loan1" class="TestPackage.classs2"/>
+        <method signature="classs2.Loan3()[pri:0, instance:TestPackage.classs2@31c88ec8]" name="Loan3" class="TestPackage.classs2"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2026-10-15T18:15:47 IST" name="Module1" finished-at="2026-10-15T18:15:48 IST" duration-ms="287">
+      <class name="TestPackage.classs2">
+        <test-method is-config="true" signature="methodBefore()[pri:0, instance:TestPackage.classs2@31c88ec8]" started-at="2026-10-15T18:15:47 IST" name="methodBefore" finished-at="2026-10-15T18:15:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodBefore -->
+        <test-method signature="Loan1()[pri:0, instance:TestPackage.classs2@31c88ec8]" started-at="2026-10-15T18:15:47 IST" name="Loan1" finished-at="2026-10-15T18:15:47 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan1 -->
+        <test-method is-config="true" signature="methodBefore()[pri:0, instance:TestPackage.classs2@31c88ec8]" started-at="2026-10-15T18:15:47 IST" name="methodBefore" finished-at="2026-10-15T18:15:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodBefore -->
+        <test-method signature="Loan2(java.lang.String)[pri:0, instance:TestPackage.classs2@31c88ec8]" started-at="2026-10-15T18:15:47 IST" name="Loan2" finished-at="2026-10-15T18:15:47 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://tttest-url.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan2 -->
+        <test-method is-config="true" signature="methodBefore()[pri:0, instance:TestPackage.classs2@31c88ec8]" started-at="2026-10-15T18:15:47 IST" name="methodBefore" finished-at="2026-10-15T18:15:47 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodBefore -->
+        <test-method signature="Loan3()[pri:0, instance:TestPackage.classs2@31c88ec8]" started-at="2026-10-15T18:15:47 IST" name="Loan3" finished-at="2026-10-15T18:15:47 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan3 -->
+      </class> <!-- TestPackage.classs2 -->
+      <class name="TestPackage.class1">
+        <test-method signature="Demo2()[pri:0, instance:TestPackage.class1@15eb5ee5]" started-at="2026-10-15T18:15:47 IST" name="Demo2" finished-at="2026-10-15T18:15:47 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+        <test-method is-config="true" signature="Demo1()[pri:0, instance:TestPackage.class1@15eb5ee5]" started-at="2026-10-15T18:15:48 IST" name="Demo1" finished-at="2026-10-15T18:15:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+      </class> <!-- TestPackage.class1 -->
+    </test> <!-- Module1 -->
+    <test started-at="2026-10-15T18:15:48 IST" name="Module2" finished-at="2026-10-15T18:15:48 IST" duration-ms="14">
+      <class name="TestPackage.classs3">
+        <test-method signature="fromClass32()[pri:0, instance:TestPackage.classs3@694abbdc]" started-at="2026-10-15T18:15:48 IST" name="fromClass32" finished-at="2026-10-15T18:15:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromClass32 -->
+      </class> <!-- TestPackage.classs3 -->
+    </test> <!-- Module2 -->
+    <test started-at="2026-10-15T18:15:48 IST" name="Module3" finished-at="2026-10-15T18:15:48 IST" duration-ms="135">
+      <class name="TestPackage.classs4">
+        <test-method is-config="true" signature="suiteBefore()[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:47 IST" name="suiteBefore" finished-at="2026-10-15T18:15:47 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteBefore -->
+        <test-method is-config="true" signature="Top4()[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Top4" finished-at="2026-10-15T18:15:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Top4 -->
+        <test-method signature="Atop()[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Atop" finished-at="2026-10-15T18:15:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Atop -->
+        <test-method signature="Ctop3(java.lang.String,java.lang.String)[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Ctop3" data-provider="getData" finished-at="2026-10-15T18:15:48 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstUser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ctop3 -->
+        <test-method signature="Ctop3(java.lang.String,java.lang.String)[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Ctop3" data-provider="getData" finished-at="2026-10-15T18:15:48 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SecodnUser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ctop3 -->
+        <test-method signature="Ctop3(java.lang.String,java.lang.String)[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Ctop3" data-provider="getData" finished-at="2026-10-15T18:15:48 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ThirdUser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ctop3 -->
+        <test-method signature="Dtop3()[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Dtop3" finished-at="2026-10-15T18:15:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dtop3 -->
+        <test-method signature="Top2()[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Top2" finished-at="2026-10-15T18:15:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Top2 -->
+        <test-method signature="Top3()[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Top3" finished-at="2026-10-15T18:15:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Top3 -->
+        <test-method signature="Top1()[pri:0, instance:TestPackage.classs4@2d7275fc]" started-at="2026-10-15T18:15:48 IST" name="Top1" finished-at="2026-10-15T18:15:48 IST" depends-on-methods="TestPackage.classs4.Dtop3" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Top1 -->
+      </class> <!-- TestPackage.classs4 -->
+      <class name="TestPackage.class1">
+        <test-method is-config="true" signature="Suiteafter()[pri:0, instance:TestPackage.class1@15eb5ee5]" started-at="2026-10-15T18:15:48 IST" name="Suiteafter" finished-at="2026-10-15T18:15:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Suiteafter -->
+      </class> <!-- TestPackage.class1 -->
+    </test> <!-- Module3 -->
+  </suite> <!-- Suite -->
+</testng-results>
