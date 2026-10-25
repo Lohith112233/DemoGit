@@ -29,5 +29,13 @@ public class DemoGit1 {
 		int y=55;
 		System.out.println(a + y);
 	 }
+	 
+	 @Test
+		public static void GitStuff1() {
+		int a=199;
+		
+		int y=155;
+		System.out.println(a + y);
+	 }
 
 }
